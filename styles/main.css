@@ -1,0 +1,32 @@
+
+
+
+.tabs__title {
+	display: inline-block;
+}
+
+.tabs__title--active {
+	text-decoration: underline;
+}
+
+
+.tabs, .tabs__copy {
+
+}
+
+
+
+.tab__copy {
+	display: none;
+
+}
+
+.tab__copy--active {
+	display: block;
+}
+
+
+
+
+
+
